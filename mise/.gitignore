@@ -1,5 +1,6 @@
 .dart_tool/
-build/
+build/*
+!build/web
 .flutter-plugins
 .flutter-plugins-dependencies
 .packages
